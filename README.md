@@ -1,3 +1,4 @@
+![logo](https://github.com/MintuKumar7/MintuKumar7/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
 # 💫 About Me:
 I am Mintu Kumar Sah Kalwar.Final-year Software Engineering student skilled in Python, JavaScript, AI/ML, and web development, passionate about creating innovative tech solutions.
 
